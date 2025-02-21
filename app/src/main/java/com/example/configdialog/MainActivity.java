@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity
      */
     public void merge(View view) {
         adb3 = new AlertDialog.Builder(this);
-        adb3.setTitle("Set background to a merge of primary colors");
+        adb3.setTitle("Set background to a merge of primary colors ");
         adb3.setCancelable(false);
         color[0] = 0;
         color[1] = 0;
